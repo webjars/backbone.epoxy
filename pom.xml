@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>backbone.epoxy</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5</version>
     <name>Epoxy.js</name>
     <description>WebJar for Epoxy.js</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/backbone.epoxy</url>
         <connection>scm:git:https://github.com/webjars/backbone.epoxy.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/backbone.epoxy.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>backbone.epoxy-1.0.5</tag>
     </scm>
     
     <dependencies>
